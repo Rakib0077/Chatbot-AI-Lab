@@ -31,7 +31,11 @@ An advanced AI chatbot built in Google Colab using PyTorch and Hugging Face Tran
 
 ### Voice Chat
 
-![Voice Chat](screenshots/voice_ui.png)
+![Voice Chat](https://github.com/Rakib0077/Chatbot-AI-Lab/blob/adfc785e5a45b25ef5c98e3f3ad74463eef54f03/Chatbot/Screenshots/Screenshot%20from%202026-06-17%2012-52-22.png)
+
+### Summarizer
+
+![summarizer](screenshots/pdf_reader.png)
 
 ### PDF Reader
 
