@@ -49,9 +49,7 @@ An advanced AI chatbot built in Google Colab using PyTorch and Hugging Face Tran
 
 Click the image below to watch the demo video:
 
-[![AI Lab Chatbot Demo](screenshots/chat_ui.png)](https://youtu.be/abc123xyz)
-
-🔗 Demo Video: https://youtu.be/abc123xyz
+🔗 Demo Video: https://github.com/Rakib0077/Chatbot/blob/24e15e345d4f9484db70a75b91754b9c21a68e4f/2026-06-17%2023-06-17.mkv
 
 ## Run in Google Colab
 
